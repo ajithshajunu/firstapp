@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c#\\firstApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstApp\\firstApp.csproj|d:\\c#\\firstapp\\firstapp\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstApp\\firstApp.csproj|solutionrelative:firstapp\\controllers\\firstcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstApp\\firstApp.csproj|d:\\c#\\firstapp\\firstapp\\modal\\modalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstApp\\firstApp.csproj|solutionrelative:firstapp\\modal\\modalclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstApp\\firstApp.csproj|d:\\c#\\firstapp\\firstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstApp\\firstApp.csproj|solutionrelative:firstapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstApp\\firstApp.csproj|d:\\c#\\firstapp\\firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7770263-A707-F6EA-AD0E-26EC849BE9BF}|firstApp\\firstApp.csproj|solutionrelative:firstapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\c#\\firstApp\\firstApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "firstApp\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\c#\\firstApp\\firstApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "firstApp\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-05T14:33:25.594Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c#\\firstApp\\firstApp\\Program.cs",
+              "RelativeDocumentMoniker": "firstApp\\Program.cs",
+              "ToolTip": "D:\\c#\\firstApp\\firstApp\\Program.cs",
+              "RelativeToolTip": "firstApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T14:19:30.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "modalclass.cs",
+              "DocumentMoniker": "D:\\c#\\firstApp\\firstApp\\modal\\modalclass.cs",
+              "RelativeDocumentMoniker": "firstApp\\modal\\modalclass.cs",
+              "ToolTip": "D:\\c#\\firstApp\\firstApp\\modal\\modalclass.cs",
+              "RelativeToolTip": "firstApp\\modal\\modalclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:48:26.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "firstController.cs",
+              "DocumentMoniker": "D:\\c#\\firstApp\\firstApp\\Controllers\\firstController.cs",
+              "RelativeDocumentMoniker": "firstApp\\Controllers\\firstController.cs",
+              "ToolTip": "D:\\c#\\firstApp\\firstApp\\Controllers\\firstController.cs",
+              "RelativeToolTip": "firstApp\\Controllers\\firstController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T13:46:20.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
