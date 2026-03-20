@@ -14,7 +14,7 @@ namespace firstApp.Controllers
             lt = new List<modalclass>()
             {
               new modalclass() {id=1,name="ajith",salary=28000 },
-              new modalclass() {id=2,name="aji",salary=28850 }
+              new modalclass() {id=2,name="shajini",salary=28850 }
             
             };
         }
